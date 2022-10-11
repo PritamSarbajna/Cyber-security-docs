@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/195106391-063fa64d-b5fa-446d-a35f-7b92cdf63ac2.gif" >
+  <img src="https://user-images.githubusercontent.com/90236635/195109788-b7bfbc4e-d918-42c0-ac9c-7f48dd948d7f.jpg" width="130%">
 </p>
 
 # Cyber-security-docs
