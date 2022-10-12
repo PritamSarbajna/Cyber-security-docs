@@ -24,5 +24,7 @@
 | `-sV` | Probe open ports to determine service/version info |
 | `-sC` | equivalent to --script=default |
 | `-oA <basename for file name>` | Output in the three major formats at once |
+| `-iL <inputfilename>` | Input of list of hosts (ip addresses) |
+|
   
-</p>
+</div>
